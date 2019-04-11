@@ -1,0 +1,1 @@
+gcc -pg -O3 huffman_encoder.c -o huffman_encoder_profile

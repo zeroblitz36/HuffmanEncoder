@@ -1,0 +1,1 @@
+gcc -g huffman_encoder.c -o huffman_encoder
